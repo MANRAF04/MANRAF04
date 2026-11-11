@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="924" height="642" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14px">
+<style>
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.dot { fill: #616e7f; }
+text { fill: #c9d1d9; white-space: pre; }
+</style>
+<rect width="100%" height="100%" rx="15" fill="#0d1117"/>
+<text xml:space="preserve">
+<tspan x="24" y="38">                     + .       .                .</tspan>
+<tspan x="24" y="56">  |     |</tspan>
+<tspan x="24" y="74">  |=(O)=|   -  -  -           .                  +</tspan>
+<tspan x="24" y="92">  |     |                          + *    |=o=|</tspan>
+<tspan x="24" y="110"></tspan>
+<tspan x="24" y="128">    .                                           . +</tspan>
+<tspan x="24" y="146">                #%#+###*##**+++=++++</tspan>
+<tspan x="24" y="164">      . .    %%%%%%%####*#***++=+==--++</tspan>
+<tspan x="24" y="182">.         @@%@@@%%%%####*#***+++==------++</tspan>
+<tspan x="24" y="200">        %@@@@@%@%%%%%####***..::---=.---::++       .</tspan>
+<tspan x="24" y="218">      @@@@@@%@%@%%%#%###***.::::--====+.::::++</tspan>
+<tspan x="24" y="236">     %@@@@@@@@@@%%%######*.::::---===+++.:::::+</tspan>
+<tspan x="24" y="254">    %@@@@@@@@@%%%%%###*#**..::---===+++**.:::::+</tspan>
+<tspan x="24" y="272">   #@@@@@@@@%%%%#####*#***+.::---==++++**.:::::++</tspan>
+<tspan x="24" y="290">   %%@%%%@@%%%%#######****+=+.--===+++*..:::::.:+</tspan>
+<tspan x="24" y="308">   #%%%%%%%%%%%#####*****++++==........:::::::::+</tspan>
+<tspan x="24" y="326">  =%##%%%#######*****++*++++===--:--:::::::.::::++</tspan>
+<tspan x="24" y="344">   ======####**#******++++==-=---::::::::::=====+</tspan>
+<tspan x="24" y="362"> * **####==================================:.:::+  .</tspan>
+<tspan x="24" y="380">   +************+*+++====----:-:-:::::.:::::::.++</tspan>
+<tspan x="24" y="398">    +**+****++++=+======-=----:::::::::::::::::+.</tspan>
+<tspan x="24" y="416">     =+++++=++++++====----:::::::::.::::::::::+</tspan>
+<tspan x="24" y="434">      -=====++====--=----:-:::::::::::::::::++   +</tspan>
+<tspan x="24" y="452">        ==--=-=-------::-:::::::::::::::::++     .</tspan>
+<tspan x="24" y="470">  .       :-----:-::::::.::::.::::::.:::++  *</tspan>
+<tspan x="24" y="488">     .       ::-::::::::::::::::::.::++</tspan>
+<tspan x="24" y="506">                :::+::::::::::.:++++ *</tspan>
+<tspan x="24" y="524">                  .          .                     .</tspan>
+<tspan x="24" y="542">    +    + +</tspan>
+<tspan x="24" y="560">                         +                 |     |</tspan>
+<tspan x="24" y="578">        |=o=|              . .             |=(O)=|.</tspan>
+<tspan x="24" y="596">  +  .                  .                  |     |</tspan>
+<tspan x="24" y="614">  .                                       *</tspan>
+</text>
+<text xml:space="preserve">
+<tspan x="480" y="182"><tspan class="key">manraf@github</tspan> ────────────────────────────────────</tspan>
+<tspan x="480" y="200"><tspan class="key">OS</tspan>:<tspan class="dot"> ........................... </tspan><tspan class="value">EndeavourOS, Linux</tspan></tspan>
+<tspan x="480" y="218"><tspan class="key">Uptime</tspan>:<tspan class="dot"> .............. </tspan><tspan class="value">7 years, 11 months, 25 days</tspan></tspan>
+<tspan x="480" y="236"><tspan class="key">Role</tspan>:<tspan class="dot"> .......................... </tspan><tspan class="value">Software Engineer</tspan></tspan>
+<tspan x="480" y="254"><tspan class="key">Location</tspan>:<tspan class="dot"> .......................... </tspan><tspan class="value">Volos, Greece</tspan></tspan>
+<tspan x="480" y="272"><tspan class="key">Languages</tspan>:<tspan class="dot"> ........ </tspan><tspan class="value">Python, Haskell, Dart, C, Rust</tspan></tspan>
+<tspan x="480" y="290"><tspan class="key">Frameworks</tspan>:<tspan class="dot"> ....................... </tspan><tspan class="value">React, Flutter</tspan></tspan>
+<tspan x="480" y="308"></tspan>
+<tspan x="480" y="326"><tspan class="key">Contact</tspan> ──────────────────────────────────────────</tspan>
+<tspan x="480" y="344"><tspan class="key">Portfolio</tspan>:<tspan class="dot"> .......... </tspan><tspan class="value">manraf04.github.io/portfolio</tspan></tspan>
+<tspan x="480" y="362"><tspan class="key">GitHub</tspan>:<tspan class="dot"> ...................... </tspan><tspan class="value">github.com/MANRAF04</tspan></tspan>
+<tspan x="480" y="380"></tspan>
+<tspan x="480" y="398"><tspan class="key">GitHub Stats</tspan> ─────────────────────────────────────</tspan>
+<tspan x="480" y="416"><tspan class="key">Repos</tspan>:<tspan class="dot"> ........................................ </tspan><tspan class="value">26</tspan></tspan>
+<tspan x="480" y="434"><tspan class="key">Stars</tspan>:<tspan class="dot"> ........................................ </tspan><tspan class="value">12</tspan></tspan>
+<tspan x="480" y="452"><tspan class="key">Followers</tspan>:<tspan class="dot"> .................................... </tspan><tspan class="value">18</tspan></tspan>
+<tspan x="480" y="470"><tspan class="key">Contributions</tspan>:<tspan class="dot"> ............................... </tspan><tspan class="value">420</tspan></tspan>
+</text>
+</svg>
